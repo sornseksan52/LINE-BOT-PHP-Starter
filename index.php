@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 $access_token = '7X0WpZEFwwM84n8hfVcTeRvhYJheIud7IFoAwpcpPUXbu6ZyiD4v9KkarQbId6Zx3rYzPdwQ9v08GuPdKAG0k2HbmdGGqakr5Kk1Xx6THRyJGndFalJjpepEd6Z136QXyM2arBV6CAUjHYKxWDmbiAdB04t89/1O/w1cDnyilFU=';
 
 // Get POST body content
@@ -45,4 +45,4 @@ if (!is_null($events['events'])) {
 	}
 }
 echo "OK";
- -->
+
